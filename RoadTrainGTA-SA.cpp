@@ -1,6 +1,7 @@
 /* Nama : Cipta Fikri Wiratama
  * NIM : 24060123140172
  * Tanggal : 23 Maret 2025
+ * kelas praktikum : GKV b1
 */
 
 #include <math.h>
